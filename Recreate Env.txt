@@ -1,3 +1,0 @@
-To recreate the environment exactly on any machine, you (or your users) just run:
-
-	conda env create -f environment.yml
