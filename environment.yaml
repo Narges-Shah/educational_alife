@@ -1,0 +1,12 @@
+name: educational_alife
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - sphinx
+  - myst-parser
+  - rake-nltk
+  - nltk
+  - scikit-learn
+  - pip

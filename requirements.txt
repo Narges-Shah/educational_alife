@@ -1,0 +1,4 @@
+
+rake-nltk
+nltk
+scikit-learn
