@@ -118,6 +118,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-> *"Grow the seeds of knowledge into thriving forests of learning."* 🌳
+*"Grow the seeds of knowledge into thriving forests of learning."* 🌳
 
 ---
